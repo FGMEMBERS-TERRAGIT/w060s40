@@ -1,0 +1,10 @@
+OBJECT_SHARED Models/Industrial/bond-warehouse.ac -59.0114797 -34.3747955 29.31 0
+OBJECT_SHARED Models/Industrial/bond-warehouse.ac -59.0066835 -34.3691226 29.99 0
+OBJECT_SHARED Models/Industrial/Zone_Indus_petit.xml -59.0127689 -34.3662969 32.5 324
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -59.1271204 -34.3708417 34.92 0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -59.1262179 -34.3748049 34.72 28
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -59.1205221 -34.3714517 33.91 340
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -59.055841 -34.3685108 31.69 312
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -59.1201754 -34.3745865 35.78 240
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -59.0589957 -34.3731706 29.81 312
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -59.0515894 -34.3717581 31.88 38.3

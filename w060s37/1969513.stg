@@ -1,0 +1,15 @@
+OBJECT_SHARED Models/Airport/Band.xml -59.500591 -36.319664 68 30
+OBJECT_SHARED Models/Agriculture/farmhouse2.ac -59.512328 -36.358995 72.61 70
+OBJECT_SHARED Models/Trees/egkk_woods.xml -59.517639 -36.356273 87.28 70
+OBJECT_SHARED Models/Trees/buk3.xml -59.512103 -36.369466 82.89 70
+OBJECT_SHARED Models/Airport/EDXW_Hangar25x15.ac -59.502254 -36.320295 67.78 50
+OBJECT_SHARED Models/Industrial/water_tower_2.ac -59.507693 -36.373699 75.64 0
+OBJECT_SHARED Models/Communications/Generic_Antenna43m.xml -59.507747 -36.374856 76.91 0
+OBJECT_SHARED Models/Trees/grass_Rembr.xml -59.515793 -36.359289 72.06 70
+OBJECT_SHARED Models/Trees/large_plantation.xml -59.511201 -36.371574 79.34 315
+OBJECT_SHARED Models/Industrial/KOFF_Tank_13M.xml -59.507886 -36.374606 76.56 315
+OBJECT_SHARED Models/Industrial/shed.ac -59.508058 -36.374805 76.86 315
+OBJECT_SHARED Models/Industrial/shed.ac -59.507307 -36.373941 75.35 315
+OBJECT_SHARED Models/Trees/Eucalipto14m.xml -59.512703 -36.358882 72.48 0
+OBJECT_SHARED Models/Residential/canary_house1.ac -59.508691 -36.37204 78.18 315
+OBJECT_SHARED Models/Residential/canary_house3.ac -59.507146 -36.373371 75.7 315

@@ -1,0 +1,8 @@
+OBJECT_SHARED Models/Industrial/industrial_b_060x060.xml -58.842102 -35.5883297 20.7 0
+OBJECT_SHARED Models/Industrial/industrial_b_060x120.xml -58.8420572 -35.5900574 20.87 0
+OBJECT_SHARED Models/Industrial/wood_chip_heap_small.ac -58.8407351 -35.5905601 21.01 0
+OBJECT_SHARED Models/Industrial/wood_chip_heap_small.ac -58.8398771 -35.5936574 21.92 0
+OBJECT_SHARED Models/Trees/line_trees.xml -58.8344708 -35.6200947 26.67 0
+OBJECT_SHARED Models/Trees/line_trees.xml -58.8338494 -35.6181986 27.13 336
+OBJECT_SHARED Models/Trees/line_trees.xml -58.8326973 -35.6162037 22.5 333.4
+OBJECT_SHARED Models/Industrial/gravelpit.ac -58.8421721 -35.5926485 18.76 1.5

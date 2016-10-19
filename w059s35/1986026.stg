@@ -23,3 +23,4 @@ OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -58.3624649 -34.2749405 -
 OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -58.3619499 -34.2517662 -0.31 193.01
 OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -58.3616066 -34.2620659 -0.4 113.4
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac -58.4956229 -34.3161222 -0.01 358.92
+OBJECT_SHARED Models/Maritime/Civilian/containership1sailing.ac -58.4972222 -34.3162215 -0.01 240

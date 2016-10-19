@@ -1,0 +1,12 @@
+OBJECT_SHARED Models/Maritime/Civilian/Trawler.xml -59.2593516 -33.8833203 -0.01 48
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -59.3858516 -33.9144796 22.34 40
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -59.3844845 -33.9139521 22.17 220
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -59.3835925 -33.9133098 22.15 220
+OBJECT_SHARED Models/Maritime/Civilian/Tanker_mooring.xml -59.2543406 -33.8886265 -0.01 48
+OBJECT_SHARED Models/StreetFurniture/pont_canal.xml -59.3489076 -33.9416533 2.65 340
+OBJECT_SHARED Models/StreetFurniture/pont_canal.xml -59.3450411 -33.9428313 2.41 340.6
+OBJECT_SHARED Models/Trees/line_trees.xml -59.2878986 -33.9788477 26.13 312
+OBJECT_SHARED Models/Trees/line_trees.xml -59.2868518 -33.9822568 28.21 52
+OBJECT_SHARED Models/Trees/line_trees.xml -59.2865201 -33.9781092 25.12 0
+OBJECT_SHARED Models/Trees/line_trees.xml -59.2865023 -33.9803393 27.68 0
+OBJECT_SHARED Models/Trees/line_trees.xml -59.2863848 -33.9816552 28.83 52

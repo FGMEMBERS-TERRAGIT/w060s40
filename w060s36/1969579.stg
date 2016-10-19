@@ -1,0 +1,12 @@
+OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderSail.xml -59.1272962 -35.2959566 20.99 0
+OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderSail.xml -59.1241574 -35.2838063 20.94 0
+OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderSail.xml -59.1114726 -35.2914253 20.92 168
+OBJECT_SHARED Models/Residential/suburban-area.xml -59.1318226 -35.2744336 29.82 48
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -59.1404371 -35.2794272 28.29 324
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -59.1371857 -35.2841304 21.4 340
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -59.1703149 -35.3027164 31.09 24
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -59.1697558 -35.2991658 31.06 48
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -59.1674653 -35.3003321 31.39 312
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -59.1667577 -35.3016274 30.88 312
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -59.1622973 -35.2982571 31.13 312
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -59.1585775 -35.295789 29.23 312

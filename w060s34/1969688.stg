@@ -1,2 +1,4 @@
 OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.xml -59.9090603 -33.5018622 -0.01 279.4
 OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.xml -59.8967959 -33.5088775 0 266.06
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -59.9830859 -33.5665218 35.38 48
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -59.815235 -33.596605 13.97 220

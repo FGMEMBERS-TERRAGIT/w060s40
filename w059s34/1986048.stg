@@ -1,2 +1,6 @@
 OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.xml -58.9088631 -33.8907623 -3.01 83.23
 OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -58.9169983 -33.8873497 -3.01 33
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-11m.ac -58.9001283 -33.8919666 -0.94 216
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-11m.ac -58.8025671 -33.9338357 -5.05 264
+OBJECT_SHARED Models/Maritime/Civilian/containership1sailing.ac -58.9196013 -33.8853574 -3.02 268
+OBJECT_SHARED Models/Maritime/Civilian/containership1sailing.ac -58.8703834 -33.9236272 -0.03 240
