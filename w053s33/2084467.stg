@@ -1,0 +1,15 @@
+OBJECT_SHARED Models/Airport/ndb.ac -52.103667 -32.149333 1.38 180
+OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.xml -52.0986628 -32.1497745 0.25 15.76
+OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.xml -52.0889334 -32.1713655 -0.02 19.95
+OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.xml -52.0797392 -32.19034 -0.31 43.54
+OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.xml -52.0744494 -32.1959357 -0.97 357.3
+OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.xml -52.0647199 -32.2006251 -1.36 357.68
+OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.xml -52.0557511 -32.2052823 -1.61 356.59
+OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -52.0988203 -32.1316181 0 263.31
+OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -52.0963958 -32.1478017 -0.01 128.53
+OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -52.0862885 -32.1696331 -0.03 21.9
+OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -52.0700727 -32.1919655 -0.49 9.81
+OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -52.0615712 -32.1975344 -0.98 155.66
+OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -52.0538809 -32.2017782 -1.33 307.78
+OBJECT_STATIC Lighthouse_breakwater.xml -52.0853603 -32.18805 0 0
+OBJECT_STATIC Lighthouse_breakwater.xml -52.07240403 -32.18673632 0 0
