@@ -17,3 +17,10 @@ OBJECT_STATIC Lighthouse_barra.xml -52.0677548 -32.118427 0 0
 OBJECT_STATIC SBRG_Terminal.ac -52.16285 -32.08253 5.4 315.8
 OBJECT_STATIC SBRG_Aeroclub.ac -52.16145 -32.08139 5.5 315.8
 OBJECT_STATIC Wind_exhaustor.xml -52.16283735 -32.08265938 9.4 0
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -52.16283 -32.08234 5.42 -42.88
+OBJECT_SHARED Models/lib/lamp10m.xml -52.16304 -32.08251 5.36 -44.92
+OBJECT_SHARED Models/lib/MedHangar.ac -52.16154 -32.08141 5.68 314.49
+# END dsf2stg

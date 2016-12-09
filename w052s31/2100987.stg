@@ -16,3 +16,8 @@ OBJECT_STATIC Hangar_AEB.ac -51.1747665 -30.000078 5.82 88.7
 OBJECT_STATIC Hangar_Hawkair.ac -51.1725865 -30.000276 6.04 58.3
 OBJECT_STATIC Hangar_PMR.ac -51.1751349 -30.000075 5.82 89.2
 OBJECT_STATIC Hangar_Transul.ac -51.173061 -30.000412 6.07 54.9
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/MedHangar.ac -51.18595 -30.00014 7.98 330.7
+# END dsf2stg
