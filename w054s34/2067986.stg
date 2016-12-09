@@ -1,2 +1,3 @@
 OBJECT_SHARED Models/Airport/ndb.ac -53.3745 -33.742333 6.05 180
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -53.3730667 -33.74195 1.9 0
 OBJECT_STATIC Lighthouse_Chui.xml -53.37309 -33.74196 4.29 0

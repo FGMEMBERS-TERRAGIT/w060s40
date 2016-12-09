@@ -10,6 +10,10 @@ OBJECT_SHARED Models/Airport/hold-lights.xml -59.8719784 -34.4160661 49.63 324
 OBJECT_SHARED Models/Residential/suburban-area.xml -59.8564716 -34.3862207 44.17 256
 OBJECT_SHARED Models/Residential/suburban-area.xml -59.8109564 -34.3899788 51.14 244
 OBJECT_SHARED Models/Residential/suburban-area.xml -59.8104055 -34.4011479 44.92 348
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -59.9972217 -34.4667801 52.25 0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -59.9921613 -34.4669627 50.85 0
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -59.9839522 -34.467198 49.63 0
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -59.9959692 -34.46415 52.11 96
 OBJECT_SHARED Models/Trees/larix_decidua_autumn.xml -59.8585566 -34.4167208 53.67 0
 OBJECT_SHARED Models/Trees/larix_decidua_autumn.xml -59.8583138 -34.4167874 53.4 0
 OBJECT_SHARED Models/Trees/larix_decidua_autumn.xml -59.8580527 -34.4168977 52.86 0

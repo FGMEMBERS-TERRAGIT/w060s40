@@ -1,0 +1,8 @@
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -58.5093674 -35.7622556 15.08 48
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -58.506242 -35.7651892 16.63 312
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -58.582148 -35.8731532 24.83 312
+OBJECT_SHARED Models/Agriculture/ChickenBarn_140x15m.ac -58.5481325 -35.7945637 21.71 0
+OBJECT_SHARED Models/Agriculture/ChickenBarn_140x15m.ac -58.5471435 -35.7939227 21.33 0
+OBJECT_SHARED Models/Agriculture/ChickenBarn_140x15m.ac -58.5464702 -35.7934082 21.29 0
+OBJECT_SHARED Models/Agriculture/ChickenBarn_140x15m.ac -58.5457024 -35.7928773 21.22 0
+OBJECT_SHARED Models/Agriculture/ChickenBarn_140x15m.ac -58.5450485 -35.7924033 20.58 0
