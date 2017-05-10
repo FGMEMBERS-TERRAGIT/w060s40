@@ -26,6 +26,7 @@ OBJECT_SHARED Models/Agriculture/straw_bale.ac -58.9074664 -35.8584841 24.91 0
 OBJECT_SHARED Models/Agriculture/straw_bale.ac -58.9073876 -35.8582945 24.9 0
 OBJECT_SHARED Models/Agriculture/straw_bale.ac -58.9073608 -35.858156 24.89 0
 OBJECT_SHARED Models/Agriculture/straw_bale.ac -58.9073188 -35.8580587 24.88 0
+OBJECT_SHARED Models/Communications/Generic_Antenna43m.xml -58.912404 -35.867804 3.25 270
 OBJECT_SHARED Models/Trees/5_populus.xml -58.909063 -35.858291 24.95 52
 OBJECT_SHARED Models/Trees/5_populus.xml -58.9079319 -35.8597747 24.71 56
 OBJECT_SHARED Models/Trees/5_populus.xml -58.9074343 -35.8556451 24.67 48
