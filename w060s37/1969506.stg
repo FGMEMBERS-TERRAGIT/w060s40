@@ -14,6 +14,7 @@ OBJECT_SHARED Models/Trees/egkk_woods.xml -59.4173985 -36.4682642 72.14 0
 OBJECT_SHARED Models/Trees/buk1.xml -59.496696 -36.379625 72.24 315
 OBJECT_SHARED Models/StreetFurniture/bus_stop.ac -59.492962 -36.388055 74.55 75
 OBJECT_SHARED Models/Sport/SwimmingPool.xml -59.496567 -36.385343 75.27 70
+OBJECT_SHARED Models/Communications/Generic_Antenna43m.xml -59.485302 -36.391069 48.17 270
 OBJECT_SHARED Models/Trees/line_trees.xml -59.4882851 -36.3859587 76.83 48
 OBJECT_SHARED Models/Trees/line_trees.xml -59.4882071 -36.3846239 82.91 312
 OBJECT_SHARED Models/Trees/line_trees.xml -59.4880747 -36.3844408 83.4 312

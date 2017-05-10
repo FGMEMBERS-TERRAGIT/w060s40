@@ -3,6 +3,8 @@ OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.xml -58.3274245 -34.6286058 -0.24 3
 OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.xml -58.322618 -34.6261811 -0.57 85.76
 OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -58.3345056 -34.6283484 -0.02 26.3
 OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -58.3285189 -34.6266317 -0.3 25.58
+OBJECT_SHARED Models/Residential/suburban-area.xml -58.2820357 -34.7426396 23.32 296
+OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -58.2724312 -34.747421 18.17 288
 OBJECT_SHARED Models/Trees/buk3.xml -58.25279979 -34.71047559 3.49 0
 OBJECT_SHARED Models/Trees/buk3.xml -58.25268657 -34.71053825 3.52 0
 OBJECT_SHARED Models/Trees/buk3.xml -58.25265008 -34.70943651 2.79 0
