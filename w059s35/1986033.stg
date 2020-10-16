@@ -2,8 +2,8 @@ OBJECT_SHARED Models/Trees/deciduous-tree2.xml -58.7490155 -34.2499987 4.73 0
 OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -58.7134695 -34.2464447 -11 287.34
 OBJECT_SHARED Models/Maritime/Civilian/SimpleFreighter.ac -58.7188533 -34.2488063 -9.44 96
 OBJECT_SHARED Models/Residential/zone_maisons_long.xml -58.7480318 -34.2483234 6.57 348
-OBJECT_SHARED Models/Trees/egkk_woods.xml -58.7436787 -34.2499368 5.11 0
-OBJECT_SHARED Models/Trees/egkk_woods.xml -58.7433318 -34.2491306 2.87 0
+OBJECT_SHARED Models/Trees/egkk_woods.ac -58.7436787 -34.2499368 5.11 0
+OBJECT_SHARED Models/Trees/egkk_woods.ac -58.7433318 -34.2491306 2.87 0
 OBJECT_SHARED Models/Sport/SwimmingPool.xml -58.7469228 -34.2484513 7.66 340
 OBJECT_SHARED Models/Maritime/Civilian/black-sailing-boat.ac -58.7379337 -34.246125 -0.01 264
 OBJECT_SHARED Models/Industrial/logistic.ac -58.7403389 -34.2491499 1.45 344

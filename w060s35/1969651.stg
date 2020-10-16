@@ -8,6 +8,11 @@ OBJECT_SHARED Models/Industrial/Zone-Indus-long.xml -59.0194091 -34.1251946 20.8
 OBJECT_SHARED Models/Industrial/Zone_Indus_petit.xml -59.018694 -34.1515957 13.91 288
 OBJECT_SHARED Models/Industrial/Zone_Indus_petit.xml -59.0134544 -34.1788485 9.18 312
 OBJECT_SHARED Models/Industrial/Zone_Indus_petit.xml -59.0093092 -34.1328094 16.45 24
+OBJECT_SHARED Models/Residential/zone_maisons_carre-ba.xml -59.1580151 -34.1958687 25.07 240
+OBJECT_SHARED Models/Residential/zone_maisons_carre-ba.xml -59.1561 -34.1969114 23.29 216
+OBJECT_SHARED Models/Residential/zone_maisons_carre-ba.xml -59.1167911 -34.1553321 26.25 312
+OBJECT_SHARED Models/Residential/zone_maisons_carre-ba.xml -59.1157019 -34.1561344 26.32 312
+OBJECT_SHARED Models/Residential/zone_maisons_carre-ba.xml -59.1061763 -34.1509042 26.4 0
 OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -59.0781243 -34.1406391 24.46 32
 OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -59.0772392 -34.1367621 31.45 312
 OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -59.0770169 -34.1436443 22.24 24
@@ -17,6 +22,8 @@ OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -59.0709845 -34.137344 28.
 OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -59.0680981 -34.134491 23.68 312
 OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -59.0110797 -34.13731 18.62 32
 OBJECT_SHARED Models/Residential/zone_maisons_grd.xml -59.0059517 -34.137862 3.44 20
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -59.2204182 -34.2469191 38.56 48
+OBJECT_SHARED Models/Residential/zone_maisons_long.xml -59.1151977 -34.1549946 25.85 228
 OBJECT_SHARED Models/Residential/zone_maisons_long.xml -59.0868902 -34.1272151 30.07 125.3
 OBJECT_SHARED Models/Residential/zone_maisons_long.xml -59.0852541 -34.1281163 34.16 64
 OBJECT_SHARED Models/Residential/zone_maisons_long.xml -59.0842532 -34.1273611 31.2 64

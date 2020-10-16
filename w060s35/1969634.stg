@@ -9,11 +9,11 @@ OBJECT_SHARED Models/Residential/suburban-area.xml -59.4611167 -34.4490748 47.76
 OBJECT_SHARED Models/Residential/suburban-area.xml -59.4287016 -34.4547776 48.97 268
 OBJECT_SHARED Models/Residential/zone_maisons_long.xml -59.4413169 -34.4683075 52.25 24
 OBJECT_SHARED Models/Residential/zone_maisons_long.xml -59.4401428 -34.4681423 53.18 24
-OBJECT_SHARED Models/Trees/egkk_woods.xml -59.4224672 -34.4712718 51.04 0
-OBJECT_SHARED Models/Trees/egkk_woods.xml -59.4222574 -34.4719981 49.98 0
-OBJECT_SHARED Models/Trees/egkk_woods.xml -59.4219453 -34.471271 53.36 0
-OBJECT_SHARED Models/Trees/egkk_woods.xml -59.4216033 -34.4718501 52.78 0
-OBJECT_SHARED Models/Trees/egkk_woods.xml -59.4213919 -34.4713102 55.71 0
+OBJECT_SHARED Models/Trees/egkk_woods.ac -59.4224672 -34.4712718 51.04 0
+OBJECT_SHARED Models/Trees/egkk_woods.ac -59.4222574 -34.4719981 49.98 0
+OBJECT_SHARED Models/Trees/egkk_woods.ac -59.4219453 -34.471271 53.36 0
+OBJECT_SHARED Models/Trees/egkk_woods.ac -59.4216033 -34.4718501 52.78 0
+OBJECT_SHARED Models/Trees/egkk_woods.ac -59.4213919 -34.4713102 55.71 0
 OBJECT_SHARED Models/Industrial/scrap_heap_small.ac -59.4181071 -34.4583622 53.47 348
 OBJECT_SHARED Models/Industrial/Water-Tower-35m.ac -59.4348009 -34.4560526 49.49 0
 OBJECT_SHARED Models/Aircraft/Cessna172_sky.xml -59.4232937 -34.4709923 50.54 120

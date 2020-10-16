@@ -204,8 +204,8 @@ OBJECT_SHARED Models/Trees/larix_decidua_autumn.xml -58.5961583 -34.7287165 18.0
 OBJECT_SHARED Models/Trees/larix_decidua_autumn.xml -58.5960404 -34.7286812 17.98 0
 OBJECT_SHARED Models/Trees/larix_decidua_autumn.xml -58.5959079 -34.7286429 17.92 0
 OBJECT_SHARED Models/Trees/larix_decidua_autumn.xml -58.5958846 -34.7280526 18.13 0
-OBJECT_SHARED Models/Trees/egkk_woods.xml -58.593718 -34.7431083 17.67 0
-OBJECT_SHARED Models/Trees/egkk_woods.xml -58.5891445 -34.7467393 14.93 288
+OBJECT_SHARED Models/Trees/egkk_woods.ac -58.593718 -34.7431083 17.67 0
+OBJECT_SHARED Models/Trees/egkk_woods.ac -58.5891445 -34.7467393 14.93 288
 OBJECT_SHARED Models/Airport/Vehicle/hatchback_red_follow_me.ac -58.5975905 -34.7270894 19.85 48
 OBJECT_SHARED Models/Airport/Vehicle/hatchback_red_follow_me.ac -58.5975565 -34.7270708 19.84 48
 OBJECT_SHARED Models/Airport/Vehicle/hatchback_red_follow_me.ac -58.50377942 -34.72674497 7.67 268

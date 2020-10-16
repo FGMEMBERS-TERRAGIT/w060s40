@@ -56,10 +56,10 @@ OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml -58.3605224 -35.1964302 2
 OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml -58.3603833 -35.196157 20.06 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml -58.2869062 -35.1847403 16 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_25m.xml -58.2868705 -35.1848869 15.99 0
-OBJECT_SHARED Models/Trees/egkk_woods.xml -58.371612 -35.1781182 19.81 0
-OBJECT_SHARED Models/Trees/egkk_woods.xml -58.3708489 -35.1794072 20.22 0
-OBJECT_SHARED Models/Trees/egkk_woods.xml -58.3706651 -35.1783775 20.11 0
-OBJECT_SHARED Models/Trees/egkk_woods.xml -58.3700539 -35.1795145 20.46 0
+OBJECT_SHARED Models/Trees/egkk_woods.ac -58.371612 -35.1781182 19.81 0
+OBJECT_SHARED Models/Trees/egkk_woods.ac -58.3708489 -35.1794072 20.22 0
+OBJECT_SHARED Models/Trees/egkk_woods.ac -58.3706651 -35.1783775 20.11 0
+OBJECT_SHARED Models/Trees/egkk_woods.ac -58.3700539 -35.1795145 20.46 0
 OBJECT_SHARED Models/Trees/populus-tree2.xml -58.3701713 -35.1948978 19.92 0
 OBJECT_SHARED Models/Trees/populus-tree2.xml -58.3701629 -35.1944176 20 0
 OBJECT_SHARED Models/Trees/populus-tree2.xml -58.3701369 -35.1945531 20.04 0

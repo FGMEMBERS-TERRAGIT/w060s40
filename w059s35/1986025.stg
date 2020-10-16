@@ -37,11 +37,11 @@ OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -58.5057751 -34.3078214 0 333.15
 OBJECT_SHARED Models/Residential/zone_maisons_long.xml -58.7488979 -34.2523811 6.02 40
 OBJECT_SHARED Models/Residential/zone_maisons_long.xml -58.7470451 -34.2501259 6.93 348
 OBJECT_SHARED Models/Residential/zone_maisons_long.xml -58.7134244 -34.3046414 8.23 16
-OBJECT_SHARED Models/Trees/egkk_woods.xml -58.7489388 -34.2507084 5.84 0
-OBJECT_SHARED Models/Trees/egkk_woods.xml -58.7485931 -34.2502083 5.79 0
-OBJECT_SHARED Models/Trees/egkk_woods.xml -58.7446555 -34.2517845 5.2 0
-OBJECT_SHARED Models/Trees/egkk_woods.xml -58.7442489 -34.2512582 4.98 0
-OBJECT_SHARED Models/Trees/egkk_woods.xml -58.7441515 -34.2506472 5.44 0
+OBJECT_SHARED Models/Trees/egkk_woods.ac -58.7489388 -34.2507084 5.84 0
+OBJECT_SHARED Models/Trees/egkk_woods.ac -58.7485931 -34.2502083 5.79 0
+OBJECT_SHARED Models/Trees/egkk_woods.ac -58.7446555 -34.2517845 5.2 0
+OBJECT_SHARED Models/Trees/egkk_woods.ac -58.7442489 -34.2512582 4.98 0
+OBJECT_SHARED Models/Trees/egkk_woods.ac -58.7441515 -34.2506472 5.44 0
 OBJECT_SHARED Models/Industrial/garbage_heap_small.ac -58.7274393 -34.3059303 4.14 282.3
 OBJECT_SHARED Models/Maritime/Civilian/black-sailing-boat.ac -58.6960368 -34.2538928 -4.66 312
 OBJECT_SHARED Models/Maritime/Civilian/white_sharp_pointed_boat.ac -58.7285963 -34.3052078 5.48 288

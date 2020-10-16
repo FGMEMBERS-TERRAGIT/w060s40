@@ -103,10 +103,10 @@ OBJECT_SHARED Models/Trees/larix_decidua_autumn.xml -59.8768626 -34.1588321 53.0
 OBJECT_SHARED Models/Trees/larix_decidua_autumn.xml -59.8766975 -34.1589632 53.1 0
 OBJECT_SHARED Models/Trees/larix_decidua_autumn.xml -59.8763393 -34.1586634 52.39 0
 OBJECT_SHARED Models/Trees/larix_decidua_autumn.xml -59.8761234 -34.1583922 51.84 0
-OBJECT_SHARED Models/Trees/egkk_woods.xml -59.8795733 -34.1600854 48.25 0
-OBJECT_SHARED Models/Trees/egkk_woods.xml -59.8790634 -34.1600996 49.73 0
-OBJECT_SHARED Models/Trees/egkk_woods.xml -59.8785342 -34.1595899 50.99 0
-OBJECT_SHARED Models/Trees/egkk_woods.xml -59.873993 -34.1566019 47.64 316
+OBJECT_SHARED Models/Trees/egkk_woods.ac -59.8795733 -34.1600854 48.25 0
+OBJECT_SHARED Models/Trees/egkk_woods.ac -59.8790634 -34.1600996 49.73 0
+OBJECT_SHARED Models/Trees/egkk_woods.ac -59.8785342 -34.1595899 50.99 0
+OBJECT_SHARED Models/Trees/egkk_woods.ac -59.873993 -34.1566019 47.64 316
 OBJECT_SHARED Models/Airport/hangar_barn.ac -59.8764822 -34.1581768 51.84 332
 OBJECT_SHARED Models/Trees/laurier.xml -59.8727851 -34.160709 52.37 0
 OBJECT_SHARED Models/Trees/laurier.xml -59.8724548 -34.1606956 52.09 0
