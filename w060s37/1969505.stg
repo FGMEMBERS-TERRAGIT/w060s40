@@ -8,10 +8,10 @@ OBJECT_SHARED Models/Trees/coniferous-tree.xml -59.504764 -36.376394 76.57 0
 OBJECT_SHARED Models/Industrial/Italian_water_tower.xml -59.505665 -36.379132 76.15 315
 OBJECT_SHARED Models/Residential/suburban-area.xml -59.50529 -36.378709 75.44 135
 OBJECT_SHARED Models/Residential/suburban-area.xml -59.50309 -36.378916 74.88 315
-OBJECT_SHARED Models/Trees/egkk_woods.xml -59.5284954 -36.408829 77.18 0
-OBJECT_SHARED Models/Trees/egkk_woods.xml -59.5281923 -36.4084077 77.08 0
-OBJECT_SHARED Models/Trees/egkk_woods.xml -59.5277484 -36.4081396 77.05 0
-OBJECT_SHARED Models/Trees/egkk_woods.xml -59.5099545 -36.3753774 76.01 32
+OBJECT_SHARED Models/Trees/egkk_woods.ac -59.5284954 -36.408829 77.18 0
+OBJECT_SHARED Models/Trees/egkk_woods.ac -59.5281923 -36.4084077 77.08 0
+OBJECT_SHARED Models/Trees/egkk_woods.ac -59.5277484 -36.4081396 77.05 0
+OBJECT_SHARED Models/Trees/egkk_woods.ac -59.5099545 -36.3753774 76.01 32
 OBJECT_SHARED Models/Trees/large_plantation.xml -59.5198058 -36.3885304 76.71 48
 OBJECT_SHARED Models/Trees/large_plantation.xml -59.5192192 -36.3879285 76.57 48
 OBJECT_SHARED Models/Trees/5_populus.xml -59.510472 -36.381439 74.27 45

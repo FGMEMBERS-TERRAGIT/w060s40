@@ -1,7 +1,7 @@
 OBJECT_SHARED Models/Airport/GenericFuelStore2.ac -59.622093 -36.5343465 93.61 312
 OBJECT_SHARED Models/Airport/Grde_zonesol.xml -59.6306344 -36.5144964 89.46 330.7
 OBJECT_SHARED Models/Airport/Grde_zonesol.xml -59.6220827 -36.533864 92.82 312
-OBJECT_SHARED Models/Trees/egkk_woods.xml -59.7188504 -36.6171188 106.8 0
+OBJECT_SHARED Models/Trees/egkk_woods.ac -59.7188504 -36.6171188 106.8 0
 OBJECT_SHARED Models/Trees/large_plantation.xml -59.6329258 -36.5155711 89.71 328
 OBJECT_SHARED Models/Trees/large_plantation.xml -59.6270621 -36.5083852 89.03 336
 OBJECT_SHARED Models/Trees/large_plantation.xml -59.6261937 -36.5086528 88.93 336
