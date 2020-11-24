@@ -530,3 +530,10 @@ OBJECT_SHARED Models/Airport/Hangar_70x15.ac -58.203406 -34.7476221 3.18 36
 OBJECT_SHARED Models/Airport/HangarCyl1.ac -58.2044186 -34.7464364 3.49 36
 OBJECT_SHARED Models/Airport/HangarCyl1.ac -58.2042966 -34.7465791 3.47 35.6
 OBJECT_SHARED Models/Airport/HangarCyl1.ac -58.2041743 -34.7467212 3.44 36
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac -58.20710 -34.74373 0.00 0
+OBJECT_SHARED Models/lib/lamp10m.xml -58.20704 -34.74376 2.80 270
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac -58.18361 -34.74428 2.82 103.495
+# END dsf2stg
